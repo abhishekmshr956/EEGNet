@@ -6,7 +6,7 @@ EEGNet: A lightweight convolutional neural network for EEG signal classification
 This repository contains an implementation of EEGNet, a lightweight convolutional neural network designed for EEG (electroencephalography) signal classification. The architecture efficiently extracts temporal and spatial features from EEG signals and is optimized for real-time processing.
 
 ## Files
-- **eegnet.py**: Defines the EEGNet model architecture using PyTorch.
+- **EEGNet.py**: Defines the EEGNet model architecture using PyTorch.
 - **trainEEGNet.py**: Contains the training pipeline for EEGNet, including dataset loading, training, and evaluation.
 
 ## Features
